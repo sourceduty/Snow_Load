@@ -9,6 +9,10 @@
 The system is tailored to ensure accurate and efficient snow load calculations, which is crucial for assessing the structural integrity of buildings in snowy regions. By integrating knowledge from several datasets, including snow types, roof pitches, and mathematical formulas, this GPT helps users make informed decisions about potential snow hazards. The results can be used to determine whether additional actions, such as snow removal, are necessary to prevent damage to the roof or the structure as a whole.
 
 #
+
+![Snowless](https://github.com/user-attachments/assets/e859e157-4511-4108-a94c-60a6703bc18b)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
