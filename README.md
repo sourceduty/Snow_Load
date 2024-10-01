@@ -18,6 +18,8 @@ The system is tailored to ensure accurate and efficient snow load calculations, 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Math Simulator](https://github.com/sourceduty/Math_Simulator)
+<br>
+[Math](https://github.com/sourceduty/Math)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
