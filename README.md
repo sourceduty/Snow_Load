@@ -10,7 +10,7 @@ The system is tailored to ensure accurate and efficient snow load calculations, 
 
 #
 
-![Snowless](https://github.com/user-attachments/assets/e859e157-4511-4108-a94c-60a6703bc18b)
+![Snow](https://github.com/user-attachments/assets/430691f1-34a0-414e-ae02-af803c2fd488)
 
 #
 ### Related Links
